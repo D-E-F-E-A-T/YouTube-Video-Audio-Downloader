@@ -64,3 +64,6 @@ Next  *Problem*  I had was to merge the video and audio of your own choice and  
 </br>
 
 - [x] Add Playlist Download Support.
+
+</br>
+Project depricated because of dependency failure.
